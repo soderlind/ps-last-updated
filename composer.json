@@ -2,9 +2,28 @@
 	"name": "soderlind/ps-last-updated",
 	"description": "Adds a sortable Last Updated column to public post type admin lists.",
 	"type": "wordpress-plugin",
+	"keywords": [
+		"wordpress",
+		"wordpress-plugin",
+		"admin",
+		"admin-columns",
+		"last-updated"
+	],
+	"homepage": "https://github.com/soderlind/ps-last-updated",
 	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Per Soderlind",
+			"homepage": "https://github.com/soderlind"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/soderlind/ps-last-updated/issues",
+		"source": "https://github.com/soderlind/ps-last-updated"
+	},
 	"require": {
-		"php": ">=7.4"
+		"php": ">=7.4",
+		"composer/installers": "^1.0 || ^2.0"
 	},
 	"require-dev": {
 		"brain/monkey": "^2.6",
@@ -19,6 +38,9 @@
 		"test": "phpunit"
 	},
 	"config": {
-		"sort-packages": true
+		"sort-packages": true,
+		"allow-plugins": {
+			"composer/installers": true
+		}
 	}
 }
