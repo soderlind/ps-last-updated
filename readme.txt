@@ -1,5 +1,5 @@
 === PS Last Updated Admin Columns ===
-Contributors: PerS
+Contributor: PerS
 Tags: admin columns, posts, pages, last updated, modified date
 Requires at least: 6.0
 Tested up to: 7.1
