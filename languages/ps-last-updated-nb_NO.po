@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PS Last Updated Admin Columns 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: Norwegian Bokmal\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-09 11:24+0200\n"
+"PO-Revision-Date: 2026-10-09 11:24+0200\n"
+"Language: nb_NO\n"
+
+#. translators: 1: Post modified date, 2: Post modified time.
+#: ps-last-updated.php:120
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s kl. %2$s"
+
+#. translators: %s: Display name of the user who last updated the post.
+#: ps-last-updated.php:149
+#, php-format
+msgid "By %s"
+msgstr "Av %s"
+
+#. translators: %s: Display name of the user who last updated the post.
+#: ps-last-updated.php:140
+#, php-format
+msgid "View profile of %s"
+msgstr "Vis profilen til %s"
+
+#: ps-last-updated.php:91
+#: ps-last-updated.php:96
+msgid "Last Updated"
+msgstr "Sist oppdatert"
+
+#. Plugin Name of the plugin
+#: ps-last-updated.php
+msgid "PS Last Updated Admin Columns"
+msgstr ""
+
+#. Description of the plugin
+#: ps-last-updated.php
+msgid "Adds a sortable Last Updated column to public post type admin lists."
+msgstr ""

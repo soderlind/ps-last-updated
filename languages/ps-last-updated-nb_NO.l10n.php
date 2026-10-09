@@ -1,0 +1,2 @@
+<?php
+return ['domain'=>NULL,'plural-forms'=>NULL,'language'=>'nb_NO','project-id-version'=>'PS Last Updated Admin Columns 1.0.0','pot-creation-date'=>'2026-10-09 11:24+0200','po-revision-date'=>'2026-10-09 11:24+0200','messages'=>['%1$s at %2$s'=>'%1$s kl. %2$s','By %s'=>'Av %s','View profile of %s'=>'Vis profilen til %s','Last Updated'=>'Sist oppdatert']];

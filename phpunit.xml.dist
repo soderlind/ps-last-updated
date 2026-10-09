@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	bootstrap="tests/bootstrap.php"
+	colors="true"
+	failOnWarning="true"
+	failOnRisky="true"
+	beStrictAboutOutputDuringTests="false"
+	cacheDirectory=".phpunit.cache">
+	<testsuites>
+		<testsuite name="ps-last-updated">
+			<directory>tests</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>

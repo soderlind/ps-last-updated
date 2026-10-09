@@ -1,0 +1,48 @@
+# Copyright (C) 2026 
+# This file is distributed under the same license as the PS Last Updated Admin Columns plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PS Last Updated Admin Columns 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ps-last-updated\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-09T09:29:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: ps-last-updated\n"
+
+#. Plugin Name of the plugin
+#: ps-last-updated.php
+msgid "PS Last Updated Admin Columns"
+msgstr ""
+
+#. Description of the plugin
+#: ps-last-updated.php
+msgid "Adds a sortable Last Updated column to public post type admin lists."
+msgstr ""
+
+#: ps-last-updated.php:91
+#: ps-last-updated.php:96
+msgid "Last Updated"
+msgstr ""
+
+#. translators: 1: Post modified date, 2: Post modified time.
+#: ps-last-updated.php:120
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. translators: %s: Display name of the user who last updated the post.
+#: ps-last-updated.php:140
+#, php-format
+msgid "View profile of %s"
+msgstr ""
+
+#. translators: %s: Display name of the user who last updated the post.
+#: ps-last-updated.php:149
+#, php-format
+msgid "By %s"
+msgstr ""
